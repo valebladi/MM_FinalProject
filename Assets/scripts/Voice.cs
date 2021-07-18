@@ -11,7 +11,7 @@ public class Voice : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        actions.Add("jump",Jump);
+        //actions.Add("jump",Jump);
         
 
        keywordRecognizer = new KeywordRecognizer(actions.Keys.ToArray());
