@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 using UnityEngine.SceneManagement;
 
 public class NewBehaviourScript : MonoBehaviour
@@ -11,9 +12,8 @@ public class NewBehaviourScript : MonoBehaviour
     private float moveX;
     public bool isGrounded;
     public float distanceToBottomOfPlayer =1.115f;
-    bool reachedEnd = false;
     public GameObject won;
-    public GameObject play;
+    public GameObject nextLevel;
     // Start is called before the first frame update
 
 
@@ -55,12 +55,9 @@ public class NewBehaviourScript : MonoBehaviour
     {
         Debug.Log("Player has collided with " + col.collider.name);
         if (col.collider.name == "EndGame"){
-            won.gameObject.GetComponent<Text>().text = "Your Player Reach Goal!!";
-            play.gameObject.GetComponent<Text>().text = "Next";
+            won.gameObject.GetComponent<Text>().text = "Goal Reached!";
+            nextLevel.gameObject.GetComponent<Text>().text = "Play Level 2";
         }
-            reachedEnd = true;
-        
-        
     }
 
     void PlayerRaycast()

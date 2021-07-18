@@ -7,7 +7,6 @@ public class MainMenuReturn : MonoBehaviour
 {
     public void TaskOnClick(){
 		SceneManager.LoadScene("MainMenu");
-        print("-----------");
 	}
 
 }
