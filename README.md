@@ -30,4 +30,5 @@ Hints
 -  The player can jump twice in the air.
 -  Getting to close to the obstacles can stop you completely (even in the air)
 -  You may jump on the enemies and they might not die. 
+-  When loading the project, it will mark an error about the README.dm file, just ignore it and click play.
 
