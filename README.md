@@ -4,8 +4,8 @@ The Final Project was done for the course of Multimodal Interaction at TU Berlin
 
 Collaborators:
   1. Alex
-  2. Joshep
-  3. Massima
+  2. Joseph
+  3. Massinissa
   4. Valeria 
 
 The main aim of this project is to reflect scenarios where different modalities can be used. The combination of the modalities is logical for the user, striving to enhance its experience. The project consisted of four tasks and this version represents the outcome of the task, the final gameplay. 
