@@ -25,5 +25,9 @@ LINK
 Game  Download
 In order to play the game, download the project. Then, go to the scenes folder and select MainMenu scene. Finally, click on play.
 
-Notes
-Please use 16:9 Resolution for better experience. 
+Hints
+- Please use 16:9 Resolution for better experience. 
+-  The player can jump twice in the air.
+-  Getting to close to the obstacles can stop you completely (even in the air)
+-  You may jump on the enemies and they might not die. 
+
