@@ -19,6 +19,7 @@ The use and distribution of these modalities were decided to enhance the users e
 
 Presentation
 Here is the link to download the video where we explain each stage of the project and elaborate more on the terms that the game was based. 
+
 LINK
 
 Game  Download
