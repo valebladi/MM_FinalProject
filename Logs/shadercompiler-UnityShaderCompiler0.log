@@ -1,0 +1,15 @@
+Base path: '/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents', plugins path '/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/PlaybackEngines'
+Cmd: initializeCompiler
+
+Cmd: disassembleShader
+ name=Sprites/Default platform=metal type=23 mask=6 insize=1759 outsize=1703 ok=1
+
+Cmd: disassembleShader
+ name=Sprites/Default platform=metal type=24 mask=6 insize=973 outsize=917 ok=1
+
+Cmd: disassembleShader
+ name=Sprites/Default platform=metal type=23 mask=6 insize=1759 outsize=1703 ok=1
+
+Cmd: disassembleShader
+ name=Sprites/Default platform=metal type=24 mask=6 insize=973 outsize=917 ok=1
+
