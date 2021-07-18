@@ -22,5 +22,7 @@ Here is the link to download the video where we explain each stage of the projec
 LINK
 
 Game  Download
+In order to play the game, download the project. Then, go to the scenes folder and select MainMenu scene. Finally, click on play.
 
+Notes
 Please use 16:9 Resolution for better experience. 
